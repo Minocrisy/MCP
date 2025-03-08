@@ -1,0 +1,14 @@
+{
+  "name": "market-trend-predictor-small-businesses",
+  "version": "1.0.0",
+  "description": "Market Trend Predictor MCP plugin for Small Businesses",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.2"
+  },
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "cultural-immersion-trainer",
+  "version": "1.0.0",
+  "description": "Connect AI models to linguistic databases, cultural etiquette guides, and real-time social media trends for cultural preparation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.2"
+  },
+  "author": "Sid Hayes - @Minocrisy",
+  "license": "MIT"
+}
